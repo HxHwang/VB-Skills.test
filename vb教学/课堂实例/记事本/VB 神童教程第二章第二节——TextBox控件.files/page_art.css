@@ -1,0 +1,54 @@
+P {
+	FONT-SIZE: 12px; LINE-HEIGHT: 22px
+}
+.title {
+	FONT-SIZE: 24pt; COLOR: #ff0000
+}
+.navigation {
+	FONT-SIZE: 12px; LINE-HEIGHT: 20px
+}
+.name01 {
+	FONT-SIZE: 12px; COLOR: #666666; LINE-HEIGHT: 20px
+}
+.content {
+	FONT-SIZE: 14px; LINE-HEIGHT: 22px
+}
+.search {
+	FONT-SIZE: 12px; LINE-HEIGHT: 20px
+}
+.channel {
+	FONT-SIZE: 12px; COLOR: #ffffff; LINE-HEIGHT: 20px
+}
+.time {
+	FONT-SIZE: 12px; COLOR: #ffffff; LINE-HEIGHT: 20px
+}
+.correlation {
+	FONT-SIZE: 13px; LINE-HEIGHT: 24px
+}
+.copyright {
+	FONT-SIZE: 12px; COLOR: #444444; LINE-HEIGHT: 14px; TEXT-DECORATION: none
+}
+.name02 {
+	FONT-SIZE: 12px; COLOR: #009999; LINE-HEIGHT: 18px
+}
+.time02 {
+	FONT-SIZE: 9px; COLOR: #666666; LINE-HEIGHT: 9px
+}
+.index01 {
+	FONT-SIZE: 12px; COLOR: #ffffff; LINE-HEIGHT: 20px
+}
+.index02 {
+	FONT-SIZE: 13px; COLOR: #ffffff; LINE-HEIGHT: 20px
+}
+.code {
+	FONT-SIZE: 11px; COLOR: #000000; LINE-HEIGHT: 16px; FONT-FAMILY: verdana,sans-serif
+}
+.data {
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 16px; FONT-FAMILY: ËÎÌו
+}
+.small {
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 16px; FONT-FAMILY: ËÎÌו
+}
+.tech {
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 16px; FONT-FAMILY: ËÎÌו
+}

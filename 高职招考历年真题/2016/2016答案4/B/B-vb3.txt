@@ -1,0 +1,11 @@
+Private Sub Command1_Click()
+Dim i, g, s, b As Integer
+For i = 100 To 999
+g = i Mod 10
+s = i \ 10 Mod 10
+b = i \ 100
+  If i = g ^ 3 + s ^ 3 + b ^ 3 Then
+  Text1.Text = Text1.Text & i & " "
+  End If
+Next i
+End Sub

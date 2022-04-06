@@ -1,0 +1,14 @@
+
+<Script Language="JavaScript">
+function CheckAll(form1,v)
+{
+  for (var i=0;i<form1.elements.length;i++)
+  {
+    var e = form1.elements[i];
+    if (e.type=='checkbox') e.checked = v;
+  }
+}
+</Script>
+
+
+onClick  CheckAll(this.form,this.checked)

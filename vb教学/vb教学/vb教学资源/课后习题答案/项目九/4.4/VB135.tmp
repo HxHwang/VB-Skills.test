@@ -1,0 +1,17 @@
+VERSION 5.00
+Begin VB.Form Form1 
+   Caption         =   "Form1"
+   ClientHeight    =   5025
+   ClientLeft      =   60
+   ClientTop       =   345
+   ClientWidth     =   7305
+   LinkTopic       =   "Form1"
+   ScaleHeight     =   5025
+   ScaleWidth      =   7305
+   StartUpPosition =   3  '´°¿ÚÈ±Ê¡
+End
+Attribute VB_Name = "Form1"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = False

@@ -1,0 +1,11 @@
+Dim xlapp As Excel.Application 'Excel对象
+Dim xlbook As Excel.Workbook '工作簿
+Dim xlsheet As Excel.Worksheet '工作表
+
+    
+
+Set xlapp = CreateObject("Excel.Application") '创建EXCEL对象
+Set xlbook = xlapp.Workbooks.Open(App.Path & "\123.xls") 
+
+xlapp.Visible = True '设置EXCEL对象可见
+Set xlsheet = xlbook.Worksheets(1) 

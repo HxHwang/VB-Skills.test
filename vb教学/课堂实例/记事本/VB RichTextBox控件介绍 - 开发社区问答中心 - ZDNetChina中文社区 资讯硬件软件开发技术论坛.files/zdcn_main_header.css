@@ -1,0 +1,450 @@
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 12px; BACKGROUND: url(../img/body_bg.gif) #efefef repeat-x; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif,"宋体"
+}
+DIV {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+IMG {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+OL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+DL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+DT {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+DD {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+FORM {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+FIELDSET {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+LEGEND {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+INPUT {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+TEXTAREA {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+BLOCKQUOTE {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+IMG {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}
+FIELDSET {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}
+H1 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+H2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+H3 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+H4 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+H5 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+H6 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+H2 {
+	FONT-SIZE: 14px
+}
+H3 {
+	FONT-SIZE: 12px
+}
+CITE {
+	FONT-STYLE: normal
+}
+EM {
+	FONT-STYLE: normal
+}
+TABLE {
+	FONT-SIZE: 12px; BORDER-COLLAPSE: collapse; border-spacing: 0
+}
+TD {
+	FONT-SIZE: 12px; BORDER-COLLAPSE: collapse; border-spacing: 0
+}
+TR {
+	FONT-SIZE: 12px; BORDER-COLLAPSE: collapse; border-spacing: 0
+}
+TH {
+	FONT-SIZE: 12px; BORDER-COLLAPSE: collapse; border-spacing: 0
+}
+A {
+	COLOR: #000; TEXT-DECORATION: none
+}
+A:hover {
+	TEXT-DECORATION: underline
+}
+.t_msgfont A {
+	COLOR: #00f
+}
+.f12 {
+	FONT-SIZE: 12px
+}
+.f14 {
+	FONT-SIZE: 14px
+}
+.flt_l {
+	FLOAT: left
+}
+.flt_r {
+	FLOAT: right
+}
+.hidden {
+	DISPLAY: none
+}
+.unLine {
+	TEXT-DECORATION: none
+}
+.unLine A {
+	TEXT-DECORATION: none
+}
+.no_bor {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none
+}
+.nobkgd {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.rssig {
+	MARGIN-LEFT: 6px; VERTICAL-ALIGN: middle
+}
+#nw_header {
+	CLEAR: both; BACKGROUND: url(../img/masthead_bg.png) repeat-x; MARGIN: 0px auto
+}
+#nw_header .header_c {
+	BACKGROUND: url(../img/masthead.png) no-repeat 35% 0px; MARGIN: 0px auto; HEIGHT: 114px
+}
+#nw_header .header_c .zdnet_logo {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 20px; FLOAT: left; PADDING-BOTTOM: 0px; PADDING-TOP: 30px
+}
+#nw_header .header_c .zdnet_logo A {
+	DISPLAY: block; BACKGROUND: url(../img/logo_zdnet239x49.gif) no-repeat; WIDTH: 239px; TEXT-INDENT: -9999px; HEIGHT: 50px
+}
+#nw_header .header_c .head_ad {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: right; PADDING-BOTTOM: 0px; WIDTH: 728px; PADDING-TOP: 10px
+}
+#nw_header .head_nav {
+	BACKGROUND: url(../img/nav_bg.gif) #dbe9f0 repeat-x; MARGIN: 0px auto; HEIGHT: 31px
+}
+#nw_header .head_nav UL {
+	
+}
+#nw_header .head_nav LI {
+	FLOAT: left
+}
+#nw_header .head_nav LI A {
+	PADDING-RIGHT: 10px; DISPLAY: block; PADDING-LEFT: 10px; FONT-WEIGHT: bold; PADDING-BOTTOM: 0px; COLOR: #295aa7; LINE-HEIGHT: 25px; PADDING-TOP: 6px
+}
+#nw_header .head_nav LI A:hover {
+	BACKGROUND: url(../img/nav_tab_arrow.gif) no-repeat 50% 100%; COLOR: #fff
+}
+#nw_header .head_nav LI.active A {
+	BACKGROUND: url(../img/nav_tab_arrow.gif) no-repeat 50% 100%; COLOR: #fff
+}
+#nw_header .head_nav LI.active A:hover {
+	BACKGROUND: url(../img/nav_tab_arrow.gif) no-repeat 50% 100%; COLOR: #fff
+}
+#nw_header .head_nav LI.active {
+	BACKGROUND: url(../img/nav_tab_bg.gif) #087fcb repeat-x; COLOR: #fff
+}
+#nw_header .head_nav LI A:hover {
+	BACKGROUND: url(../img/nav_tab_arrow.gif) #b4d1e0 no-repeat center bottom; TEXT-DECORATION: none
+}
+#nw_header .head_nav .form_sear {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: right; PADDING-BOTTOM: 0px; WIDTH: 240px; PADDING-TOP: 3px; TEXT-ALIGN: right
+}
+.form_sear INPUT {
+	BORDER-RIGHT: #869bac 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #869bac 1px solid; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; BORDER-LEFT: #869bac 1px solid; WIDTH: 160px; COLOR: #b0b0b0; PADDING-TOP: 2px; BORDER-BOTTOM: #869bac 1px solid
+}
+.form_sear BUTTON {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BACKGROUND: url(../img/search_btn.gif) no-repeat; MARGIN: 0px 4px 0px 3px; VERTICAL-ALIGN: middle; BORDER-LEFT: 0px; WIDTH: 25px; CURSOR: pointer; TEXT-INDENT: -9999px; BORDER-BOTTOM: 0px; HEIGHT: 25px
+}
+.sec_navbar {
+	PADDING-LEFT: 10px; FLOAT: left; WIDTH: 980px; BORDER-BOTTOM: #e5e5e5 1px solid; HEIGHT: 34px
+}
+.sec_nav {
+	
+}
+.sec_nav LI {
+	BORDER-RIGHT: #ccc 1px solid; PADDING-RIGHT: 8px; MARGIN-TOP: 12px; FLOAT: left; MARGIN-RIGHT: 8px; FONT-FAMILY: "宋体"
+}
+.sec_nav LI A {
+	COLOR: #06c
+}
+.sec_nav LI.red A {
+	FONT-WEIGHT: bold; COLOR: #f00
+}
+.sec_nav LI.cur A {
+	FONT-WEIGHT: bold; COLOR: #c00
+}
+.sec_nav LI.no_bor {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none
+}
+.r_row {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; BACKGROUND: url(../img/top_navbgr.gif) repeat-x 50% bottom; FLOAT: right; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: #cbcbcb 1px solid; COLOR: #333; LINE-HEIGHT: 34px; PADDING-TOP: 0px; BORDER-BOTTOM: 0px; HEIGHT: 34px
+}
+.r_row A {
+	COLOR: #333
+}
+.width {
+	MARGIN: 0px auto; WIDTH: 100%
+}
+.area {
+	CLEAR: both; PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 0px; MARGIN: 0px auto; WIDTH: 100%; PADDING-TOP: 0px
+}
+.fst_bg {
+	BACKGROUND: url(../img/shadow_sides.gif) no-repeat center top
+}
+.fst_bg .width {
+	BACKGROUND: #fff; WIDTH: 100%
+}
+#footer {
+	CLEAR: both; PADDING-RIGHT: 40px; PADDING-LEFT: 0px; BACKGROUND: url(../img/bg_ftr_950x89.gif) #fff no-repeat center top; PADDING-BOTTOM: 50px; MARGIN: 0px; PADDING-TOP: 16px
+}
+#footer A:visited {
+	COLOR: #039
+}
+#f {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: url(http://bbs.zdnet.com.cn/forumdata/img/logo_zdnet_hd_430x62.gif) no-repeat 5px 40px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 180px; PADDING-TOP: 0px; HEIGHT: 100px
+}
+#footer LI {
+	BORDER-RIGHT: medium none; PADDING-RIGHT: 0px; BORDER-TOP: medium none; DISPLAY: inline; PADDING-LEFT: 0px; FONT-WEIGHT: normal; BACKGROUND: none transparent scroll repeat 0% 0%; PADDING-BOTTOM: 0px; BORDER-LEFT: medium none; PADDING-TOP: 0px; BORDER-BOTTOM: medium none
+}
+#footer SPAN {
+	FONT-WEIGHT: bold
+}
+#infoblock {
+	CLEAR: none; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 0px 125px; PADDING-TOP: 0px; TEXT-ALIGN: left
+}
+#infoblock .f_copy {
+	PADDING-LEFT: 56px; FLOAT: left; WIDTH: 620px
+}
+#infoblock .f_copy IMG {
+	FLOAT: right
+}
+.services {
+	PADDING-RIGHT: 0px; BORDER-TOP: #d6d7d9 1px solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 12px; MARGIN: 12px 0px; OVERFLOW: hidden; PADDING-TOP: 12px; BORDER-BOTTOM: #d6d7d9 1px solid
+}
+ HTML .services {
+	HEIGHT: 1%
+}
+.services UL {
+	CLEAR: none; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 5px 0px 0px; PADDING-TOP: 0px
+}
+.networkFooter {
+	DISPLAY: inline; FLOAT: right
+}
+#preFooter {
+	BORDER-TOP: #ccc 1px solid; BACKGROUND: #fff
+}
+#preFooter DL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; WIDTH: 24%; MARGIN-RIGHT: 8px; PADDING-TOP: 0px
+}
+#preFooter DL DD {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 1em; BACKGROUND: url(../img/bul_orange_5x5.gif) no-repeat 0px 0.6em; PADDING-BOTTOM: 2px; MARGIN: 0.2em 0px 0px; PADDING-TOP: 2px; LIST-STYLE-TYPE: none; POSITION: relative
+}
+#preFooter DL DT A {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; TEXT-TRANSFORM: uppercase; COLOR: black
+}
+#preFooter DL DT {
+	MARGIN-TOP: 10px; MARGIN-BOTTOM: 5px
+}
+#subnav_s {
+	CLEAR: both; PADDING-RIGHT: 0px; PADDING-LEFT: 160px; FONT-SIZE: 12px; PADDING-BOTTOM: 4px; PADDING-TOP: 5px; TEXT-ALIGN: left
+}
+#subnav_s A {
+	FONT-WEIGHT: bold
+}
+.footcopy {
+	PADDING-LEFT: 56px; FLOAT: left
+}
+.fix {
+	CLEAR: both; VISIBILITY: hidden
+}
+.clearfix:unknown {
+	CLEAR: both; DISPLAY: block; VISIBILITY: hidden; HEIGHT: 0px; content: "."
+}
+.clearfix {
+	DISPLAY: inline-block
+}
+.clearfix {
+	DISPLAY: block
+}
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 12px; BACKGROUND: url(http://www.cnetnews.com.cn/images/cnetnews_bg.jpg) #fff repeat-x 50% top; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif,"宋体"
+}
+DIV {
+	BORDER-RIGHT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: 0px; PADDING-TOP: 0px; BORDER-BOTTOM: 0px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif,宋体; LIST-STYLE-TYPE: none
+}
+FORM {
+	BORDER-RIGHT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: 0px; PADDING-TOP: 0px; BORDER-BOTTOM: 0px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif,宋体; LIST-STYLE-TYPE: none
+}
+IMG {
+	BORDER-RIGHT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: 0px; PADDING-TOP: 0px; BORDER-BOTTOM: 0px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif,宋体; LIST-STYLE-TYPE: none
+}
+UL {
+	BORDER-RIGHT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: 0px; PADDING-TOP: 0px; BORDER-BOTTOM: 0px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif,宋体; LIST-STYLE-TYPE: none
+}
+OL {
+	BORDER-RIGHT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: 0px; PADDING-TOP: 0px; BORDER-BOTTOM: 0px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif,宋体; LIST-STYLE-TYPE: none
+}
+LI {
+	BORDER-RIGHT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: 0px; PADDING-TOP: 0px; BORDER-BOTTOM: 0px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif,宋体; LIST-STYLE-TYPE: none
+}
+DL {
+	BORDER-RIGHT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: 0px; PADDING-TOP: 0px; BORDER-BOTTOM: 0px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif,宋体; LIST-STYLE-TYPE: none
+}
+DT {
+	BORDER-RIGHT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: 0px; PADDING-TOP: 0px; BORDER-BOTTOM: 0px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif,宋体; LIST-STYLE-TYPE: none
+}
+DD {
+	BORDER-RIGHT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: 0px; PADDING-TOP: 0px; BORDER-BOTTOM: 0px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif,宋体; LIST-STYLE-TYPE: none
+}
+P {
+	BORDER-RIGHT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: 0px; PADDING-TOP: 0px; BORDER-BOTTOM: 0px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif,宋体; LIST-STYLE-TYPE: none
+}
+#bbsnews_header {
+	CLEAR: both; WIDTH: auto
+}
+#bbsnews_header .logo {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 10px; BACKGROUND: none transparent scroll repeat 0% 0%; FLOAT: left; PADDING-BOTTOM: 0px; WIDTH: 338px; PADDING-TOP: 20px; HEIGHT: 70px
+}
+#bbsnews_header .head_sear {
+	MARGIN-TOP: 20px; BACKGROUND: url(http://www.cnetnews.com.cn/images/head_sear.gif) no-repeat; FLOAT: right; WIDTH: 612px; HEIGHT: 52px
+}
+#bbsnews_header .head_sear FORM {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 40px; PADDING-BOTTOM: 0px; PADDING-TOP: 18px
+}
+#bbsnews_header .head_sear LABEL {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; FLOAT: left; PADDING-TOP: 4px
+}
+#bbsnews_header .head_sear INPUT {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 12px; FLOAT: left; PADDING-BOTTOM: 1px; WIDTH: 330px; PADDING-TOP: 1px
+}
+#bbsnews_header .head_sear SELECT {
+	FONT-SIZE: 12px; FLOAT: left; MARGIN: 0px 4px; WIDTH: 90px
+}
+#bbsnews_header .head_sear IMG {
+	FLOAT: left; CURSOR: pointer
+}
+#bbsnews_header .head_ad {
+	FLOAT: left; MARGIN: 12px auto 0px; WIDTH: 980px
+}
+#bbsnews_header .head_ad IMG {
+	MARGIN: 0px 4px
+}
+#bbsnews_headnav {
+	CLEAR: left; PADDING-LEFT: 10px; MARGIN: 0px; WIDTH: auto; PADDING-TOP: 12px
+}
+#bbsnews_headnav UL.m_nav {
+	FLOAT: left
+}
+#bbsnews_headnav UL.m_nav LI {
+	DISPLAY: block; FONT-WEIGHT: bold; BACKGROUND: url(http://www.cnetnews.com.cn/images/game_navoff.gif) no-repeat; FLOAT: left; WIDTH: 65px; MARGIN-RIGHT: 2px; PADDING-TOP: 8px; HEIGHT: 18px; TEXT-ALIGN: center
+}
+#bbsnews_headnav UL.m_nav LI A {
+	COLOR: #fff
+}
+#bbsnews_headnav UL.m_nav LI.on {
+	BACKGROUND: url(http://www.cnetnews.com.cn/images/game_navon.gif) no-repeat; WIDTH: 65px; PADDING-TOP: 8px; HEIGHT: 18px
+}
+#bbsnews_headnav UL.m_nav LI.on A {
+	COLOR: #000
+}
+#bbsnews_headnav .mr_nav {
+	PADDING-RIGHT: 7px; BACKGROUND: url(http://www.cnetnews.com.cn/images/nav_rit_r.gif) #000 no-repeat right 50%; FLOAT: left; MARGIN: 2px 0px 0px; WIDTH: 400px; COLOR: #fff; HEIGHT: 24px
+}
+#bbsnews_headnav .mr_nav SPAN {
+	PADDING-LEFT: 12px; BACKGROUND: url(http://www.cnetnews.com.cn/images/nav_rit_l.gif) no-repeat left 50%; FLOAT: left; HEIGHT: 24px
+}
+#bbsnews_headnav .mr_nav A {
+	COLOR: #fff; LINE-HEIGHT: 24px
+}
+#bbsnews_headnav .mr_nav A.on {
+	COLOR: #e6b802
+}
+.area {
+	CLEAR: both; PADDING-RIGHT: 8px; PADDING-LEFT: 8px; BACKGROUND: url(http://www.cnetnews.com.cn/images/bg_area.gif) repeat-y center 50%; PADDING-BOTTOM: 0px; MARGIN: 0px auto; WIDTH: 984px; PADDING-TOP: 0px
+}
+.area .nav_sed {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 20px; BACKGROUND: url(http://www.cnetnews.com.cn/images/nav_bg_x.jpg) repeat-x; PADDING-BOTTOM: 0px; MARGIN: 0px 1px; WIDTH: 962px; PADDING-TOP: 8px; HEIGHT: 20px; TEXT-ALIGN: left
+}
+.area .nav_sed A {
+	FONT-WEIGHT: bold; COLOR: #0048c0
+}
+#area_bottbg {
+	CLEAR: both; BACKGROUND: url(http://www.cnetnews.com.cn/images/bg_area_bott.gif) no-repeat center 50%; MARGIN: -3px auto 0px; WIDTH: 998px; HEIGHT: 8px
+}
+.bbsarea {
+	CLEAR: both; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: url(http://www.cnetnews.com.cn/images/nav_bg_x.jpg) repeat-x; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.bbsarea .bbsnav_sed {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 20px; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: auto; PADDING-TOP: 8px; HEIGHT: 20px; TEXT-ALIGN: left
+}
+.bbsarea .bbsnav_sed A {
+	FONT-WEIGHT: bold; COLOR: #0048c0
+}
+.mainheader .menu {
+	BACKGROUND: #fff
+}
+TABLE.row TD.f_title {
+	TEXT-ALIGN: left
+}
+#bbsfooter {
+	CLEAR: both; MARGIN: 0px auto; WIDTH: 960px
+}
+#bbsfooter .site {
+	PADDING-RIGHT: 40px; PADDING-LEFT: 10px; FONT-SIZE: 12px; PADDING-BOTTOM: 12px; LINE-HEIGHT: 130%; PADDING-TOP: 40px; BORDER-BOTTOM: #e0e0e0 1px solid
+}
+#bbsfooter .site A.f_93 {
+	FONT-WEIGHT: bold; COLOR: #939393
+}
+#bbsfooter .site A {
+	COLOR: #666
+}
+#bbsfooter .links {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 10px; PADDING-BOTTOM: 0px; COLOR: #0048c0; LINE-HEIGHT: 20px; PADDING-TOP: 20px
+}
+#bbsfooter .links A {
+	COLOR: #0048c0
+}
+#bbsfooter .copy {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 10px; PADDING-BOTTOM: 20px; COLOR: #939393; LINE-HEIGHT: 20px; PADDING-TOP: 20px
+}
+#bbsfooter .copy A {
+	COLOR: #939393
+}
+TD.altbg1 {
+	TEXT-ALIGN: left
+}
+TD.altbg2 {
+	TEXT-ALIGN: left
+}
+.spaceborder TABLE TD {
+	TEXT-ALIGN: left
+}

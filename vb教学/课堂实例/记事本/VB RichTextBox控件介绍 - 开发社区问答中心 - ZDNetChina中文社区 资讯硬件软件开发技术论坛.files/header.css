@@ -1,0 +1,549 @@
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DIV {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DT {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DD {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+OL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+H1 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+H2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+H3 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+H4 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+H5 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+H6 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+FORM {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+FIELDSET {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+LEGEND {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+INPUT {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+TEXTAREA {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+BLOCKQUOTE {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+TH {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+TD {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+TABLE {
+	FONT-SIZE: 12px; BORDER-COLLAPSE: collapse; border-spacing: 0
+}
+FIELDSET {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}
+A IMG {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}
+INPUT {
+	PADDING-RIGHT: 1px; PADDING-LEFT: 1px; FONT-SIZE: 12px; PADDING-BOTTOM: 1px; PADDING-TOP: 1px
+}
+TEXTAREA {
+	PADDING-RIGHT: 1px; PADDING-LEFT: 1px; FONT-SIZE: 12px; PADDING-BOTTOM: 1px; PADDING-TOP: 1px
+}
+SELECT {
+	PADDING-RIGHT: 1px; PADDING-LEFT: 1px; FONT-SIZE: 12px; PADDING-BOTTOM: 1px; PADDING-TOP: 1px
+}
+OL {
+	LIST-STYLE-TYPE: none
+}
+UL {
+	LIST-STYLE-TYPE: none
+}
+CAPTION {
+	TEXT-ALIGN: left
+}
+TH {
+	TEXT-ALIGN: left
+}
+CITE {
+	FONT-STYLE: normal
+}
+EM {
+	FONT-STYLE: normal
+}
+BODY {
+	FONT-SIZE: 12px; BACKGROUND: url(http://icon.zdnet.com.cn/zdnet/pic/body_bg.gif) #efefef repeat-x; COLOR: #323432; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif,"ËÎÌו"
+}
+H1 {
+	FONT-SIZE: 14px
+}
+H2 {
+	FONT-SIZE: 14px
+}
+H3 {
+	FONT-SIZE: 12px
+}
+H4 {
+	FONT-SIZE: 12px
+}
+H5 {
+	FONT-SIZE: 12px
+}
+H6 {
+	FONT-SIZE: 12px
+}
+OL {
+	FONT-SIZE: 12px
+}
+UL {
+	FONT-SIZE: 12px
+}
+LI {
+	FONT-SIZE: 12px
+}
+DL {
+	FONT-SIZE: 12px
+}
+DD {
+	FONT-SIZE: 12px
+}
+BUTTON {
+	FONT-SIZE: 12px
+}
+A {
+	TEXT-DECORATION: none
+}
+A:hover {
+	TEXT-DECORATION: underline
+}
+.fltl {
+	FLOAT: left
+}
+.fltr {
+	FLOAT: right
+}
+.nobod {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none
+}
+.dis {
+	DISPLAY: block
+}
+.undis {
+	DISPLAY: none
+}
+.fix {
+	CLEAR: both
+}
+#newhead {
+	BACKGROUND: url(http://icon.zdnet.com.cn/zdnet/pic/bg_headbig.jpg) #fff no-repeat center top
+}
+.compy_top {
+	BACKGROUND: url(http://icon.zdnet.com.cn/zdnet/pic/bg_head_top.gif) repeat-x; HEIGHT: 22px
+}
+.compy_top H3 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 10px; FLOAT: left; PADDING-BOTTOM: 0px; COLOR: #ffa507; PADDING-TOP: 4px
+}
+.compy_top P {
+	PADDING-RIGHT: 20px; PADDING-LEFT: 0px; FONT-SIZE: 10px; FLOAT: right; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #808080; PADDING-TOP: 3px
+}
+.compy_top P A {
+	COLOR: #808080
+}
+.navigation {
+	CLEAR: both; MARGIN: 0px auto; WIDTH: 980px; BORDER-BOTTOM: #bfd0dc 1px solid
+}
+.newlogo {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; WIDTH: 158px; PADDING-TOP: 6px
+}
+.newlogo A {
+	DISPLAY: block; BACKGROUND: url(http://icon.zdnet.com.cn/zdnet/pic/zdnet_logo145x54.gif) no-repeat; WIDTH: 145px; TEXT-INDENT: -9999px; HEIGHT: 76px
+}
+#it_services {
+	MARGIN-TOP: 4px; BACKGROUND: url(http://icon.zdnet.com.cn/zdnet/pic/it_services.gif) no-repeat right top; FLOAT: left; WIDTH: 146px; HEIGHT: 15px
+}
+.fixednav {
+	MARGIN-TOP: 10px; BACKGROUND: url(http://icon.zdnet.com.cn/zdnet/pic/bg_topheadbig.gif) no-repeat left top; FLOAT: left; WIDTH: 820px; HEIGHT: 90px
+}
+UL.firstnav {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 6px; PADDING-BOTTOM: 0px; PADDING-TOP: 4px
+}
+UL.firstnav LI {
+	BACKGROUND: url(http://icon.zdnet.com.cn/zdnet/pic/bg_navri.gif) no-repeat right top; FLOAT: left; COLOR: #1b3e73
+}
+UL.firstnav LI H3 {
+	FONT-SIZE: 14px
+}
+UL.firstnav LI A {
+	PADDING-RIGHT: 8px; DISPLAY: block; PADDING-LEFT: 9px; PADDING-BOTTOM: 0px; COLOR: #1b3e73; LINE-HEIGHT: 20px; PADDING-TOP: 5px; TEXT-DECORATION: none
+}
+UL.firstnav LI A:visited {
+	PADDING-RIGHT: 8px; DISPLAY: block; PADDING-LEFT: 9px; PADDING-BOTTOM: 0px; COLOR: #1b3e73; LINE-HEIGHT: 20px; PADDING-TOP: 5px; TEXT-DECORATION: none
+}
+UL.firstnav LI A:hover {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 5px; PADDING-BOTTOM: 0px; MARGIN: 2px 4px 0px; COLOR: #36c; PADDING-TOP: 3px; TEXT-DECORATION: none
+}
+UL.firstnav LI.over2w H3 A:hover {
+	BACKGROUND: url(http://icon.zdnet.com.cn/zdnet/pic/bg_over2w.gif) no-repeat center 50%
+}
+UL.firstnav LI.over3w H3 A:hover {
+	BACKGROUND: url(http://icon.zdnet.com.cn/zdnet/pic/bg_over3w.gif) no-repeat center 50%
+}
+UL.firstnav LI.over4w H3 A:hover {
+	BACKGROUND: url(http://icon.zdnet.com.cn/zdnet/pic/bg_over4w.gif) no-repeat center 50%
+}
+UL.firstnav LI#over2w A {
+	PADDING-RIGHT: 6px; PADDING-LEFT: 6px; PADDING-BOTTOM: 0px; MARGIN: 2px 6px 0px 4px; PADDING-TOP: 3px
+}
+UL.firstnav LI#over3w A {
+	PADDING-RIGHT: 6px; PADDING-LEFT: 6px; PADDING-BOTTOM: 0px; MARGIN: 2px 6px 0px 4px; PADDING-TOP: 3px
+}
+UL.firstnav LI#over4w A {
+	PADDING-RIGHT: 6px; PADDING-LEFT: 6px; PADDING-BOTTOM: 0px; MARGIN: 2px 6px 0px 4px; PADDING-TOP: 3px
+}
+UL.firstnav LI#over2w A {
+	BACKGROUND: url(http://icon.zdnet.com.cn/zdnet/pic/bg_over2w.gif) no-repeat center 50%
+}
+UL.firstnav LI#over3w A {
+	BACKGROUND: url(http://icon.zdnet.com.cn/zdnet/pic/bg_over3w.gif) no-repeat center 50%
+}
+UL.firstnav LI#over4w A {
+	BACKGROUND: url(http://icon.zdnet.com.cn/zdnet/pic/bg_over4w.gif) no-repeat center 50%
+}
+UL.firstnav LI.nobdg {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.secondnav {
+	MARGIN-TOP: 6px; BACKGROUND: url(http://icon.zdnet.com.cn/zdnet/pic/bg_topheadsec.gif) #e5f0f5 no-repeat left top; FLOAT: left; MARGIN-LEFT: 3px; WIDTH: 807px; PADDING-TOP: 6px; HEIGHT: 47px
+}
+.secondnav LI A {
+	COLOR: #3071c1
+}
+.secondnav LI A:visited {
+	COLOR: #3071c1
+}
+.secondnav LI A:hover {
+	COLOR: #3071c1
+}
+.secondnav LI A:active {
+	COLOR: #3071c1
+}
+.secondnav LI A.red {
+	FONT-WEIGHT: bold; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #e01e26
+}
+.secondnav LI.nobod A.red {
+	FONT-WEIGHT: bold; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #e01e26
+}
+.secondnav LI A.red:hover {
+	FONT-WEIGHT: bold; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #e01e26
+}
+.secondnav LI A.red:visited {
+	FONT-WEIGHT: bold; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #e01e26
+}
+.sec_nav LI A.red:hover {
+	FONT-WEIGHT: bold; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #e01e26
+}
+.sec_nav LI A.red:visited {
+	FONT-WEIGHT: bold; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #e01e26
+}
+.secondnav UL {
+	CLEAR: both; PADDING-RIGHT: 0px; PADDING-LEFT: 12px; PADDING-BOTTOM: 0px; PADDING-TOP: 2px
+}
+.secondnav LI {
+	BORDER-RIGHT: #93a9bb 1px solid; PADDING-RIGHT: 0px; DISPLAY: inline; MARGIN-RIGHT: 8px
+}
+.secondnav LI.nobod {
+	BORDER-RIGHT: 0px
+}
+.headsearch {
+	CLEAR: both; PADDING-LEFT: 160px; COLOR: #777; PADDING-TOP: 4px; HEIGHT: 32px
+}
+.headsearch LABEL {
+	FONT-WEIGHT: bold; COLOR: #1b3e73; MARGIN-RIGHT: 12px
+}
+.headsearch INPUT {
+	WIDTH: 90px; MARGIN-RIGHT: 4px
+}
+.headsearch INPUT.imsear {
+	WIDTH: 170px
+}
+.headsearch BUTTON {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; MARGIN: 0px 4px 0px 3px; BORDER-LEFT: 0px; WIDTH: 25px; CURSOR: pointer; TEXT-INDENT: -9999px; BORDER-BOTTOM: 0px; HEIGHT: 23px
+}
+.headsearch BUTTON.btnbg1 {
+	BACKGROUND: url(http://icon.zdnet.com.cn/zdnet/pic/btn_search.gif) no-repeat
+}
+.headsearch BUTTON.btnbg2 {
+	BACKGROUND: url(http://icon.zdnet.com.cn/zdnet/pic/btn_logn.gif) no-repeat
+}
+.headsearch SPAN A {
+	MARGIN-LEFT: 6px; COLOR: #3071c1; MARGIN-RIGHT: 20px; TEXT-DECORATION: underline
+}
+.headsearch .coluser A {
+	COLOR: #1b3e73
+}
+.lead {
+	BACKGROUND: #fff; MARGIN: 0px auto; WIDTH: 980px
+}
+.alone {
+	CLEAR: both; PADDING-RIGHT: 5px; PADDING-LEFT: 5px; BACKGROUND: url(http://icon.zdnet.com.cn/zdnet/pic/shadow_sides.gif) no-repeat center top; PADDING-BOTTOM: 0px; MARGIN: 0px auto; WIDTH: 980px; PADDING-TOP: 0px
+}
+.sonnavall {
+	BACKGROUND: url(http://icon.zdnet.com.cn/zdnet/pic/bg_sonnav.gif) repeat-x 50% bottom; HEIGHT: 34px
+}
+.sonnav LI {
+	FLOAT: left
+}
+.sonnav LI A {
+	PADDING-RIGHT: 3px; DISPLAY: block; PADDING-LEFT: 3px; PADDING-BOTTOM: 0px; COLOR: #069; LINE-HEIGHT: 28px; PADDING-TOP: 6px
+}
+.sonnav LI A:visited {
+	COLOR: #069
+}
+.sonnav LI.on {
+	BACKGROUND: url(http://icon.zdnet.com.cn/zdnet/pic/bg_mou_r.gif) #eaeaea no-repeat right top; HEIGHT: 34px
+}
+.sonnav LI.m_li_a {
+	BACKGROUND: url(http://icon.zdnet.com.cn/zdnet/pic/bg_mou_r.gif) #eaeaea no-repeat right top; HEIGHT: 34px
+}
+.sonnav LI.on H4 {
+	BACKGROUND: url(http://icon.zdnet.com.cn/zdnet/pic/bg_mou_l.gif) no-repeat left top
+}
+.sonnav LI.m_li_a H4 {
+	BACKGROUND: url(http://icon.zdnet.com.cn/zdnet/pic/bg_mou_l.gif) no-repeat left top
+}
+.sonnav LI.on A {
+	PADDING-RIGHT: 3px; DISPLAY: block; PADDING-LEFT: 3px; BACKGROUND: url(http://icon.zdnet.com.cn/zdnet/pic/nav_tab_arrow.gif) no-repeat 50% 100%; PADDING-BOTTOM: 0px; COLOR: #c30; LINE-HEIGHT: 28px; PADDING-TOP: 6px; TEXT-DECORATION: none
+}
+.sonnav LI.on A:visited {
+	PADDING-RIGHT: 3px; DISPLAY: block; PADDING-LEFT: 3px; BACKGROUND: url(http://icon.zdnet.com.cn/zdnet/pic/nav_tab_arrow.gif) no-repeat 50% 100%; PADDING-BOTTOM: 0px; COLOR: #c30; LINE-HEIGHT: 28px; PADDING-TOP: 6px; TEXT-DECORATION: none
+}
+.sonnav LI.on A:hover {
+	PADDING-RIGHT: 3px; DISPLAY: block; PADDING-LEFT: 3px; BACKGROUND: url(http://icon.zdnet.com.cn/zdnet/pic/nav_tab_arrow.gif) no-repeat 50% 100%; PADDING-BOTTOM: 0px; COLOR: #c30; LINE-HEIGHT: 28px; PADDING-TOP: 6px; TEXT-DECORATION: none
+}
+.sonnav LI.m_li_a A {
+	PADDING-RIGHT: 3px; DISPLAY: block; PADDING-LEFT: 3px; BACKGROUND: url(http://icon.zdnet.com.cn/zdnet/pic/nav_tab_arrow.gif) no-repeat 50% 100%; PADDING-BOTTOM: 0px; COLOR: #c30; LINE-HEIGHT: 28px; PADDING-TOP: 6px; TEXT-DECORATION: none
+}
+.sonnav LI.m_li_a A:visited {
+	PADDING-RIGHT: 3px; DISPLAY: block; PADDING-LEFT: 3px; BACKGROUND: url(http://icon.zdnet.com.cn/zdnet/pic/nav_tab_arrow.gif) no-repeat 50% 100%; PADDING-BOTTOM: 0px; COLOR: #c30; LINE-HEIGHT: 28px; PADDING-TOP: 6px; TEXT-DECORATION: none
+}
+.sonnav LI.m_li_a A:hover {
+	PADDING-RIGHT: 3px; DISPLAY: block; PADDING-LEFT: 3px; BACKGROUND: url(http://icon.zdnet.com.cn/zdnet/pic/nav_tab_arrow.gif) no-repeat 50% 100%; PADDING-BOTTOM: 0px; COLOR: #c30; LINE-HEIGHT: 28px; PADDING-TOP: 6px; TEXT-DECORATION: none
+}
+.sonnav LI A:hover {
+	PADDING-RIGHT: 3px; DISPLAY: block; PADDING-LEFT: 3px; BACKGROUND: url(http://icon.zdnet.com.cn/zdnet/pic/nav_tab_arrow.gif) #ececec no-repeat 50% 100%; PADDING-BOTTOM: 0px; COLOR: #c30; LINE-HEIGHT: 28px; PADDING-TOP: 6px; TEXT-DECORATION: none
+}
+.hh4 H4 {
+	FONT-WEIGHT: normal
+}
+.left_miao {
+	BORDER-RIGHT: #cbcbcb 1px solid; MARGIN-BOTTOM: 10px
+}
+.bottom10 {
+	MARGIN-BOTTOM: 10px
+}
+.rgnew {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; BACKGROUND: url(http://icon.zdnet.com.cn/zdnet/pic/top_navbgr.gif) repeat-x 50% bottom; FLOAT: right; PADDING-BOTTOM: 0px; BORDER-LEFT: #cbcbcb 1px solid; COLOR: #333; PADDING-TOP: 10px; BORDER-BOTTOM: 0px; HEIGHT: 24px
+}
+.rg1 {
+	BACKGROUND: url(http://icon.zdnet.com.cn/zdnet/pic/top_navbgr1.gif) repeat-x 50% bottom
+}
+.rgnew A {
+	COLOR: #333
+}
+.rg1 A {
+	COLOR: #333
+}
+.rgnew IMG {
+	MARGIN-LEFT: 4px
+}
+.r_down {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; BACKGROUND: url(http://icon.zdnet.com.cn/zdnet/pic/top_navbgr.gif) repeat-x 50% bottom; FLOAT: right; PADDING-BOTTOM: 0px; BORDER-LEFT: #cbcbcb 1px solid; COLOR: #333; PADDING-TOP: 10px; BORDER-BOTTOM: 0px; HEIGHT: 24px
+}
+.r_down A {
+	COLOR: #333
+}
+.rg1 A {
+	COLOR: #333
+}
+.r_down IMG {
+	MARGIN-LEFT: 4px
+}
+A.colyellow {
+	PADDING-RIGHT: 20px; BACKGROUND: url(http://icon.zdnet.com.cn/zdnet/pic/rss_icon.gif) no-repeat 100% 50%; COLOR: #eb7f32
+}
+.s_li A.colyellow {
+	PADDING-RIGHT: 20px; BACKGROUND: url(http://icon.zdnet.com.cn/zdnet/pic/rss_icon.gif) no-repeat 100% 50%; COLOR: #eb7f32
+}
+.s_li_a A.colyellow {
+	PADDING-RIGHT: 20px; BACKGROUND: url(http://icon.zdnet.com.cn/zdnet/pic/rss_icon.gif) no-repeat 100% 50%; COLOR: #eb7f32
+}
+.chanlnav A.colyellow {
+	PADDING-RIGHT: 20px; BACKGROUND: url(http://icon.zdnet.com.cn/zdnet/pic/rss_icon.gif) no-repeat 100% 50%; COLOR: #eb7f32
+}
+A.network_news {
+	PADDING-LEFT: 18px; BACKGROUND: url(http://icon.zdnet.com.cn/zdnet/pic/newpic.gif) no-repeat 0% 45%
+}
+A.soicon {
+	PADDING-RIGHT: 20px; BACKGROUND: url(http://icon.zdnet.com.cn/zdnet/pic/high_search_sml.gif) no-repeat 100% 50%
+}
+.chanlnav {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 20px; PADDING-BOTTOM: 0px; COLOR: #b1c3d3; LINE-HEIGHT: 20px; PADDING-TOP: 6px; BORDER-BOTTOM: #e8e8e8 1px solid; HEIGHT: 20px; TEXT-ALIGN: left
+}
+.s_li {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 20px; PADDING-BOTTOM: 0px; COLOR: #b1c3d3; LINE-HEIGHT: 20px; PADDING-TOP: 6px; BORDER-BOTTOM: #e8e8e8 1px solid; HEIGHT: 20px; TEXT-ALIGN: left
+}
+.s_li_a {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 20px; PADDING-BOTTOM: 0px; COLOR: #b1c3d3; LINE-HEIGHT: 20px; PADDING-TOP: 6px; BORDER-BOTTOM: #e8e8e8 1px solid; HEIGHT: 20px; TEXT-ALIGN: left
+}
+.chanlnav A {
+	COLOR: #404040; TEXT-DECORATION: underline
+}
+.s_li A {
+	COLOR: #404040; TEXT-DECORATION: underline
+}
+.s_li_a A {
+	COLOR: #404040; TEXT-DECORATION: underline
+}
+.chanlnav A.red {
+	COLOR: #c30
+}
+.s_li A.red {
+	COLOR: #c30
+}
+.s_li_a A.red {
+	COLOR: #c30
+}
+A.red {
+	COLOR: #c30
+}
+.chanlnav A.red:hover {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #1e629e
+}
+UL.nobb LI {
+	PADDING-RIGHT: 6px; MARGIN-RIGHT: 6px
+}
+.s_li {
+	DISPLAY: none
+}
+.m_li_a {
+	DISPLAY: block
+}
+.stora_logo {
+	FLOAT: right
+}
+.stora_logo IMG {
+	BORDER-RIGHT: #d9d9d9 0px solid; BORDER-TOP: #d9d9d9 0px solid; BORDER-LEFT: #d9d9d9 0px solid; BORDER-BOTTOM: #d9d9d9 0px solid
+}
+.main_bottom {
+	CLEAR: both; PADDING-RIGHT: 0px; BORDER-TOP: #d4e4eb 1px solid; PADDING-LEFT: 0px; BACKGROUND: #f0f5f7; PADDING-BOTTOM: 15px; PADDING-TOP: 15px; HEIGHT: 30px
+}
+.main_bottom .bott_width {
+	MARGIN: 0px auto; WIDTH: 980px; POSITION: relative
+}
+.main_bottom .tab {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 20px; RIGHT: -1px; BACKGROUND: url(http://icon.zdnet.com.cn/zdnet/pic/footer_tab_left.gif) no-repeat 0px 100%; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; POSITION: absolute; TOP: -16px
+}
+.main_bottom .tab A {
+	PADDING-RIGHT: 13px; DISPLAY: block; PADDING-LEFT: 5px; BACKGROUND: url(http://icon.zdnet.com.cn/zdnet/pic/footer_tab_right.gif) no-repeat 100% 100%; FLOAT: left; PADDING-BOTTOM: 0px; COLOR: #25549d; PADDING-TOP: 0px; HEIGHT: 21px
+}
+#footer {
+	CLEAR: both; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: url(http://icon.zdnet.com.cn/zdnet/pic/bg_ftr_950x89.gif) #fff no-repeat; PADDING-BOTTOM: 50px; MARGIN: 0px auto; WIDTH: 980px; PADDING-TOP: 16px
+}
+.leadbtm {
+	MARGIN: 0px auto; WIDTH: 980px
+}
+#footer A:visited {
+	COLOR: #039
+}
+#f {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: url(http://icon.zdnet.com.cn/zdnet/pic/logo_zdnet_hd_430x62.gif) no-repeat 5px 40px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 180px; PADDING-TOP: 0px; HEIGHT: 100px
+}
+#footer LI {
+	BORDER-RIGHT: medium none; PADDING-RIGHT: 0px; BORDER-TOP: medium none; DISPLAY: inline; PADDING-LEFT: 0px; FONT-WEIGHT: normal; BACKGROUND: none transparent scroll repeat 0% 0%; PADDING-BOTTOM: 0px; BORDER-LEFT: medium none; PADDING-TOP: 0px; BORDER-BOTTOM: medium none
+}
+#footer SPAN {
+	FONT-WEIGHT: bold
+}
+#infoblock {
+	CLEAR: none; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 0px 125px; PADDING-TOP: 0px; TEXT-ALIGN: left
+}
+#infoblock .f_copy {
+	PADDING-LEFT: 56px; FLOAT: left; WIDTH: 720px
+}
+#infoblock .f_copy IMG {
+	FLOAT: right
+}
+#infoblock A.normallink {
+	COLOR: #369
+}
+.services A {
+	COLOR: #369
+}
+.services {
+	PADDING-RIGHT: 0px; BORDER-TOP: #d6d7d9 1px solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 12px; MARGIN: 12px 0px; OVERFLOW: hidden; PADDING-TOP: 12px; BORDER-BOTTOM: #d6d7d9 1px solid
+}
+ HTML .services {
+	HEIGHT: 1%
+}
+.services UL {
+	CLEAR: none; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 5px 0px 0px; PADDING-TOP: 0px
+}
+.networkFooter {
+	DISPLAY: inline; FLOAT: right
+}
+#subnav_s {
+	CLEAR: both; PADDING-RIGHT: 0px; PADDING-LEFT: 160px; FONT-SIZE: 12px; PADDING-BOTTOM: 4px; PADDING-TOP: 5px; TEXT-ALIGN: left
+}
+#subnav_s A {
+	FONT-WEIGHT: bold
+}
+#subnav_s A.on {
+	COLOR: #900
+}
+.footcopy {
+	PADDING-LEFT: 56px; FLOAT: left
+}
+.clkent {
+	FONT-SIZE: 14px; TEXT-ALIGN: center
+}
+.clkent A {
+	TEXT-DECORATION: underline
+}
+.clkent A:visited {
+	TEXT-DECORATION: underline
+}
+.newsimg {
+	MARGIN: 10px 0px; TEXT-ALIGN: center
+}
+.newsimg IMG {
+	BORDER-RIGHT: #cdcdcd 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #cdcdcd 1px solid; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; BORDER-LEFT: #cdcdcd 1px solid; PADDING-TOP: 2px; BORDER-BOTTOM: #cdcdcd 1px solid
+}

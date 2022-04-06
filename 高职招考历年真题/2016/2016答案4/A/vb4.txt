@@ -1,0 +1,16 @@
+Private Sub Command1_Click()
+Randomize
+
+Text1.Text = ""
+Dim a(1 To 5), i, max As Integer
+max = 0
+
+For i = 1 To 5
+a(i) = Int(Rnd * 11 + 0)
+Text1.Text = Text1.Text & a(i) & " "
+If a(i) > max Then
+max = a(i)
+End If
+Next i
+Text1.Text = Text1.Text & "最大值是：" & max
+End Sub

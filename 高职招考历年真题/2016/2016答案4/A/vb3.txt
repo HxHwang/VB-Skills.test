@@ -1,0 +1,10 @@
+Private Sub Command1_Click()
+Dim i, sum As Integer
+For i = 0 To 200
+  If i Mod 3 = 0 Or i Mod 7 = 0 Then
+    sum = sum + i
+  End If
+Next i
+Text1.Text = sum
+
+End Sub
